@@ -1,0 +1,20 @@
+# disCOrD-ZapREt
+
+> Новая версия с поддержкой Discord в текущих условиях. Надежнее, стабильнее, быстрее
+
+disCOrD-ZapREt чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут.
+
+## Страницы
+- Сайт: https://rapidkratag29.github.io/disCOrD-ZapREt/
+- Релиз: https://github.com/Rapidkratag29/disCOrD-ZapREt/releases/latest
+- Исходный код: https://github.com/Rapidkratag29/disCOrD-ZapREt
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Discord
+- Discord не подключается
+- Discord connecting исправить
+- голосовой чат Discord не работает
+- zapret Discord
+
+Windows 10/11, без VPN, бесплатно.
